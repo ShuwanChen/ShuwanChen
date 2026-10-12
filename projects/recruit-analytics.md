@@ -28,4 +28,4 @@
 
 以下为**建议采集的指标，尚无成效数据**：从上传到结果可用的时间及失败率、每项目异常核对时长、异常处置完成率、导出报告与页面结果的一致性、业务用户对口径解释的理解程度。可先用合成边界样本验证正确性，再在获授权的试用中观察任务完成情况与反馈。
 
-[源码仓库（私有，需授权访问）](https://github.com/ShuwanChen/mit-recruit-data-ops-service) · [返回作品集](../README.md)
+[源码仓库（私有，需授权访问）](https://github.com/xiaowan279/mit-recruit-data-ops-service) · [返回作品集](../README.md)

@@ -35,4 +35,4 @@
 
 建议后续采集：发布成功率、重复提交比例、被阻止的版本冲突、更新失败率、从发布到终端更新的耗时。这些是待采集指标，尚无实测数值。
 
-[私有源码：hr-extension-update-service](https://github.com/ShuwanChen/hr-extension-update-service)（需授权访问）。
+[私有源码：hr-extension-update-service](https://github.com/xiaowan279/hr-extension-update-service)（需授权访问）。

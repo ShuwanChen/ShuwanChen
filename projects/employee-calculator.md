@@ -37,6 +37,6 @@
 - 返工原因：再次计算和重新生成的原因分布，区分输入更正、业务口径和模板问题。
 - 批量处理质量：导入错误率、需要手工修正的行数，以及从上传到下载 ZIP 的耗时。
 
-公开案例不含真实员工资料或协议。[私有源码](https://github.com/ShuwanChen/mit-employee-relations-calculator-service)需授权访问。
+公开案例不含真实员工资料或协议。[私有源码](https://github.com/xiaowan279/mit-employee-relations-calculator-service)需授权访问。
 
 [返回作品集](../README.md)

@@ -37,6 +37,6 @@
 - 产物可用率：AI 完成会话后，通过资源检查并可部署的网站包占比。
 - 更新体验：完成一次内容更新的耗时、失败率，以及旧链接继续可用的比例。
 
-公开案例仅包含脱敏产品说明。[私有源码](https://github.com/ShuwanChen/mit-hr-digital-ai-service)需授权访问。
+公开案例仅包含脱敏产品说明。[私有源码](https://github.com/xiaowan279/mit-hr-digital-ai-service)需授权访问。
 
 [返回作品集](../README.md)

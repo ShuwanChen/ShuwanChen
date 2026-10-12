@@ -33,4 +33,4 @@
 
 建议后续采集：从门户到工具的点击转化率、搜索无结果率、失效链接数量、入口维护耗时。以上是待验证指标，尚无本案例可披露的实测数值。
 
-[私有源码：mit-hr-digital-workbench-portal](https://github.com/ShuwanChen/mit-hr-digital-workbench-portal)（需授权访问）。
+[私有源码：mit-hr-digital-workbench-portal](https://github.com/xiaowan279/mit-hr-digital-workbench-portal)（需授权访问）。

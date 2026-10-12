@@ -1,4 +1,6 @@
-# ShuwanChen · AI 产品作品集
+# xiaowan279 · AI 产品作品集
+
+可分享主页：[github.com/xiaowan279](https://github.com/xiaowan279)
 
 **AI 产品 / AI Native 产品经理实习方向**
 
