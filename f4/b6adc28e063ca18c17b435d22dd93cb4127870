@@ -1,0 +1,33 @@
+projects/workbench-portal.md
+  s_1bcf61a5161ecb::t_4246f3025d099c 36
+profile/README.md
+  s_1bcf61a5161ecb::t_4246f3025d099c 1-44
+README.md
+  s_1bcf61a5161ecb::t_aabac39029ad86 1-3
+projects/extension-updates.md
+  s_1bcf61a5161ecb::t_4246f3025d099c 38
+projects/ai-platform.md
+  s_1bcf61a5161ecb::t_4246f3025d099c 40
+projects/daily-workbench.md
+  s_1bcf61a5161ecb::t_4246f3025d099c 31
+projects/employee-calculator.md
+  s_1bcf61a5161ecb::t_4246f3025d099c 40
+projects/recruit-analytics.md
+  s_1bcf61a5161ecb::t_4246f3025d099c 31
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.45-trip",
+  "base_commit_sha": "f4b6adc28e063ca18c17b435d22dd93cb4127870",
+  "prompts": {},
+  "sessions": {
+    "s_1bcf61a5161ecb": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a12f84-ca9d-7021-a0e1-0f48bccd1185",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "ShuwanChen <32810876+ShuwanChen@users.noreply.github.com>"
+    }
+  }
+}
